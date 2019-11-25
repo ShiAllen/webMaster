@@ -14,7 +14,7 @@
         <screenfull class="screenfull right-menu-item"></screenfull>
       </el-tooltip>
 
-      <div class="lang-select">
+      <div class="lang-select">+
         <lang-select></lang-select>
       </div>
 
